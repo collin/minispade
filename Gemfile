@@ -1,4 +1,4 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem "thor", "~> 0.15.2" 
+gem "thor", "> 1.0.0"
